@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "reigast:reigast_recipe"
+      }
+    }
+  },
+  "rewards": {
+    "function": "reigast:craft/reigast"
+  }
+}

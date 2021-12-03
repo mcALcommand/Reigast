@@ -1,0 +1,32 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iD/",
+        "SEN",
+        "/Ni"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_ingot"
+        },
+        "D": {
+            "item": "minecraft:diamond_sword"
+        },
+        "/": {
+            "item": "minecraft:blaze_rod"
+        },
+        "S": {
+            "item": "minecraft:shield"
+        },
+        "E": {
+            "item": "minecraft:end_crystal"
+        },
+        "N": {
+            "item": "minecraft:netherite_scrap"
+        }
+    },
+    "result": {
+        "item": "minecraft:chest",
+        "count": 1
+    }
+}
