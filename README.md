@@ -4,4 +4,4 @@
 
 # 詳しくはブログで
 
-https://al-minecraft.hatenablog.jp/reigast
+https://al-minecraft.hatenablog.jp/entry/reigast
